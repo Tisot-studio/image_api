@@ -6,7 +6,7 @@ The service is ready to go, it remains only
 git clone https://github.com/Tisot-studio/image_api.git  
 cd image_api
 
-**Create a virtual environment and run it, for example:**
+**Create a virtual environment and run it, for example:**  
 py -m venv testenv  
 testenv\Scripts\activate
 
